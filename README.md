@@ -1,3 +1,4 @@
-# CSE 221
+# Performance Measurement for 17 Intel MacOS
 
-This is the repository for CSE 221 Winter 2023, Group 1.
+Using benchmark & rtdsc to measure the MacOS performance in terms of CPU, Memory, Network, File System. 
+Write report the make summary and analysis. See details in report.
